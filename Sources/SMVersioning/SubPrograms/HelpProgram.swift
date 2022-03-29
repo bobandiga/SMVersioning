@@ -14,7 +14,7 @@ struct HelpProgram {
 Usage bump [major|minor|patch].
 Options:
         [-s] skip podspec, only package. Default false.
-        [-f] force push on origin, only package. Default false.
+        [-p] force push on origin, only package. Default false.
 """)
     }
 }

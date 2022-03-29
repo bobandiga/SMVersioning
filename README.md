@@ -8,7 +8,7 @@ A simple program for versioning swift packages and/or pods
 
 `bump major|minor|patch` main comand. Available options: 
 `-s` for skip podspec.
-`-f` for force push on origin.
+`-p` for force push on origin.
 
 ## Installation
 
