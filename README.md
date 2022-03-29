@@ -25,7 +25,3 @@ $ cp -f SMVersioning /usr/local/bin/`name ex. smver`
 ## Author
 
 bobandiga, shmx.dev@gmail.com
-
-## License
-
-SMKeyboardObserber is available under the MIT license. See the LICENSE file for more info.
