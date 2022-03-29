@@ -63,7 +63,7 @@ struct PodspecService {
     }
 
     func revertPodspec() throws {
-
+        try writePodspec(new: _oldVersion)
     }
 
     // MARK: Private
